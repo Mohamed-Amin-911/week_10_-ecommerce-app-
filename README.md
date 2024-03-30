@@ -1,16 +1,7 @@
 # section_task
+![Screenshot_1710164154](https://github.com/Mohamed-Amin-911/week_10_-ecommerce-app-/assets/141561179/39f34e16-f948-4f11-b34e-e18d5b5000a2)
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/Mohamed-Amin-911/week_10_-ecommerce-app-/assets/141561179/f94436f3-da52-4467-9380-22287b47deb5
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1710164161](https://github.com/Mohamed-Amin-911/week_10_-ecommerce-app-/assets/141561179/55a529d2-30f0-49c6-8b12-2eaacb243fde)
